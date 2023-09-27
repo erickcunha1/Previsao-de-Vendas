@@ -28,7 +28,7 @@ Este projeto consiste em uma análise e previsão de vendas utilizando dados do 
 ## Como Executar
 
 1. Certifique-se de ter Python e as bibliotecas mencionadas instaladas em seu ambiente.
-2. Clone o repositório ou baixe os arquivos `advertising.csv`, `novos.csv` e `código.py`.
-3. Execute o arquivo `código.py` para reproduzir a análise, treinamento dos modelos e as previsões.
+2. Clone o repositório ou baixe os arquivos `advertising.csv`, `novos.csv` e `main.py`.
+3. Execute o arquivo `main.py` para reproduzir a análise, treinamento dos modelos e as previsões.
 
 Sinta-se à vontade para explorar, modificar e expandir este projeto de acordo com suas necessidades e interesses!
